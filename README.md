@@ -1,5 +1,5 @@
-# vynx's Build Archive
 
+[OGFN Center](https://discord.gg/ogfncenter)
 
 # Season 1
 | Build | Download |
