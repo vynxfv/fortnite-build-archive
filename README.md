@@ -22,3 +22,5 @@
 | 2.4.0 (2.4.0-CL-3858292) | https://public.simplyblk.xyz/2.4.0.zip |
 | 2.4.2 (2.4.2-CL-3870737) | https://public.simplyblk.xyz/2.4.2.zip |
 | 2.5.0 (2.5-CL-3889387) | https://public.simplyblk.xyz/2.5.0.rar |
+# Season 3
+*Soon*
