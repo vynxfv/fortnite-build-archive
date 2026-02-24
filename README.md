@@ -4,7 +4,7 @@
 <details open>
   <summary><h1>OGFN Center</h1></summary>
   
-[OGFN Center](https://discord.gg/ogfncenter)
+If you want access to even more OGFN resources [click here!](https://discord.gg/ogfncenter)
 
 </details>
 
