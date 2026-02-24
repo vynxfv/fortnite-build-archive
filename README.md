@@ -1,7 +1,12 @@
 
 # Fortnite Build Archive
 
+<details open>
+  <summary><h1>OGFN Center</h1></summary>
+  
 [OGFN Center](https://discord.gg/ogfncenter)
+
+</details>
 
 # Season 1
 | Build | Download |
@@ -105,3 +110,5 @@
 | 10.20.2 (10.20-CL-8456527) | https://public.simplyblk.xyz/10.20.zip | 
 | 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | 
 | 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | 
+
+Made with ❤️ by vynx
