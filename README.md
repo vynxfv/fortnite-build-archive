@@ -4,7 +4,7 @@
 <details open>
   <summary><h1>OGFN Center</h1></summary>
   
-If you want access to even more OGFN resources [click here!](https://discord.gg/ogfncenter)
+If you want access to even more OGFN resources then [Click here!](https://discord.gg/ogfncenter)
 
 </details>
 
@@ -111,4 +111,4 @@ If you want access to even more OGFN resources [click here!](https://discord.gg/
 | 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | 
 | 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | 
 
-Made with ❤️ by vynx
+Made with ❤️ by vynx.
